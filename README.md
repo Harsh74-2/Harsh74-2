@@ -6,6 +6,7 @@ BSc Computer Science student at IU International University of Applied Sciences.
 - :chart_with_downwards_trend: [agentdrift](https://github.com/Harsh74-2/agentdrift) - eval harness measuring how single-step errors compound across LLM-agent trajectories (pure stdlib Python)
 - :vhs: [VR-WEB-APP](https://github.com/Harsh74-2/VR-WEB-APP) - virtual reality in the browser, JavaScript and WebGL
 - :globe_with_meridians: [Portfolio](https://harsh74-2.github.io/) - who I am and what the numbers say
+- :mailbox: [LinkedIn](https://www.linkedin.com/in/harsh-kumar-aa55453a2/)
 
 What I care about: honest evaluation. Held-out test splits, out-of-distribution checks, and knowing when a model compounds its own errors.
 
